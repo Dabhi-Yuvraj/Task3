@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(231 125 67);
+}
+
+.head{
+    color: darkblue;
+}
+/* .red{
+    color: red;
+} */
+ h2>.color{
+    color: red;
+}
+p{
+    color:white;
+}
+#para{
+    color: green;
+}
+p>.color{
+    color: black;
+    font-size: 30px;
+}
+
+#bglime{
+    background-color: lime;
+}
+li>a{
+    background-color: yellow;
+}
+ul li:nth-child(2) a{
+    background-color: blue;
+}
+
+ol li:nth-child(2){
+    color: blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
